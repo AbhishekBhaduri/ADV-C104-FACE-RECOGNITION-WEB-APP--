@@ -1,4 +1,4 @@
-https://teachablemachine.withgoogle.com/train/image
+
 Webcam.set({
     width:350,
     heigth:300,
